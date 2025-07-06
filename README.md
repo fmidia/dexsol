@@ -1,16 +1,4 @@
-<div align="center">
-  <img height="170" src="https://raw.githubusercontent.com/openbook-dex/resources/main/brand/OpenBook-Logomark.svg" />
 
-  <h1>Openbook</h1>
-
-  <p>
-    <strong>Openbook Rust Monorepo</strong>
-  </p>
-
-  <p>
-    <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/github/license/openbook-dex/program?color=blue" /></a>
-  </p>
-</div>
 
 ## Program Deployments
 
@@ -20,7 +8,7 @@
 
 ## Note
 
-- **Openbook is in active development so all APIs and protocols are subject to
+- **active development so all APIs and protocols are subject to
   change.**
 - **The code is unaudited. Use at your own risk.**
 
